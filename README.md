@@ -1,6 +1,6 @@
-Anylfest
+Analfist
 ================================
-Anylfest provides and API for parsing and analyzing an AndroidManifest.xml file or files.
+Analfist provides and API for parsing and analyzing an AndroidManifest.xml file or files.
 
 REQUIRES
 -------------------------
@@ -10,13 +10,13 @@ It requires the following tools to be installed/in the current PATH for *some* f
 
 RUNNING
 -------------------------
-Anylfest can be installed to sys.path:
+Analfist can be installed to sys.path:
 ```
 $ sudo python setup.py install
 ```
-In order to use the library. Alternatively, run anylfest without installation using:
+In order to use the library. Alternatively, run Analfist without installation using:
 ```
-$ python anylfest/main.py
+$ python Analfist/main.py
 ```
 And has the following options:
 ```
@@ -66,9 +66,3 @@ TODO
  - [X] Add UID sharing
  - [ ] Default intent-filter false in Android 4.1+
  - [ ] Finish mapping permissions
-
-CONTRIBUTING
--------------------------
-To contribute to anylfest, please email:
-max@intrepidusgroup.com
-nitin.jami@intrepidusgroup.com
